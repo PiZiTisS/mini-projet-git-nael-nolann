@@ -1,4 +1,3 @@
-Naël.D
 Voici quelques commandes qu'on a appris :
 
 1. git add NomFichier ---> ajoute un fichier a la branche danns laquelle npous sommes
