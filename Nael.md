@@ -7,6 +7,8 @@ Choses que j'ai apprises sur Git :
 2. Le principe de gestion en local des fichiers qui diffère d'un cloud (différence entre git et github)
 3. Le concept même du versionning et les intérêts de ce dernier
 
+voici l'image du cycliste David Deroo pour votre confort visuel.
+
 ![Coureur cycliste francais](David_Deroo.jpg)   
 
 [Retourner au menu](README.md)
